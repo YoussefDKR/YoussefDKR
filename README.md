@@ -19,8 +19,6 @@ These are products I designed, built, and shipped — not tutorials.
 | **MarsaTrade** | Seafood intelligence dashboard for traders: landed-cost calculator (live FX), price/freight data, subscriptions, admin panel, AI news summaries. | Next.js 15 · Prisma · Supabase Postgres · Stripe · Claude | [Live](https://marsatrade.vercel.app) · [Code](https://github.com/YoussefDKR/MarsaTrade) |
 | **Mari & Muddichi** | Production restaurant site for a gourmet Sicily venue (Messina): booking CTA, menu, gallery, Italian copy, motion. | Next.js 15 · TypeScript · Tailwind · Framer Motion | [Code](https://github.com/YoussefDKR/mari-e-muddichi) |
 
-Also: **Discord bots** for live communities (`discord.js`) and client marketing sites.
-
 ---
 
 ## What I can own on a team
@@ -40,18 +38,6 @@ Also: **Discord bots** for live communities (`discord.js`) and client marketing 
 **Payments & AI** — Stripe, Claude API  
 **Infra** — Git, GitHub, Vercel
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
 ---
 
 ## Currently
@@ -59,10 +45,3 @@ Also: **Discord bots** for live communities (`discord.js`) and client marketing 
 Building **CrossTalent** (recruitment SaaS) and taking on product work for local businesses.
 
 **Looking for:** full-stack or frontend engineer roles where I can ship user-facing product, not only landing pages.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=YoussefDKR&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" width="420" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YoussefDKR&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" width="320" alt="Top languages" />
-</p>
