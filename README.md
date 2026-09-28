@@ -63,5 +63,6 @@ Building **CrossTalent** (recruitment SaaS) and taking on product work for local
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefDKR&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=YoussefDKR&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" width="420" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YoussefDKR&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" width="320" alt="Top languages" />
 </p>
